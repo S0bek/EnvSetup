@@ -1,2 +1,3 @@
 # EnvSetup
-Various usefull config files
+
+Various usefull config files for my own setup
