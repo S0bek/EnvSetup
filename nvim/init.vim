@@ -63,6 +63,9 @@ call plug#end()
 set ai
 set nu
 
+" Enable relative line number
+set relativenumber
+
 " Palenight configuration
 set background=dark
 " colorscheme palenight
